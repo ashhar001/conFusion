@@ -37,3 +37,12 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+
+input[type="radio"]{
+    margin-right: 0px 10px 0px 10px;
+}
+
+.form-check-label{
+    padding: 0px 10px 0px 10px;
+}
