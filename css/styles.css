@@ -75,3 +75,22 @@ input[type="radio"]{
     position: absolute;
     bottom: 0px;
 }
+
+.modal-header {
+    background: #512DA8;
+    color: floralwhite; 
+}    
+
+.modal-header button {
+    color: floralwhite; 
+}
+  
+.modal-body {
+    background: #D1C4E9; 
+}
+
+
+.modal-footer {
+    background: #D1C4E9; 
+}
+
