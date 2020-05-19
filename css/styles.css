@@ -79,8 +79,12 @@ input[type="radio"]{
 .modal-header {
     background: #512DA8;
     color: floralwhite; 
-}    
 
+    
+}    
+.close {
+    color: floralwhite;
+}
 .modal-header button {
     color: floralwhite; 
 }
